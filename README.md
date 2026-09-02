@@ -15,7 +15,7 @@ Java | MySQL | MongoDB | JavaScript | Git | GitHub
 Projetos em destaque:
 🏰 RPG Castelo Infinito
 
-<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/21c6602b-8eba-4369-bb23-956ae970266f" />
+[![My Skills](https://skillicons.dev/icons?i=java,spring,mongodb,mysql,git,github,)](https://skillicons.dev)
 
 
 
