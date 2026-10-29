@@ -19,7 +19,7 @@
 
 ### 📫 Contato
 
-[LinkedIn](https://www.linkedin.com/in/henrique-esp%C3%ADndola07/) · [GitHub](https://github.com/Rickzss)
+[LinkedIn](https://www.linkedin.com/in/henrique-esp%C3%ADndola07/)
 
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,linux,mysql,git,github,)](https://skillicons.dev)
