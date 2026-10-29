@@ -20,8 +20,6 @@
 
 [LinkedIn](https://www.linkedin.com/in/henrique-esp%C3%ADndola07/) · [GitHub](https://github.com/Rickzss)
 
-*Aprendendo, praticando e evoluindo em tecnologia.*
-
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,mongodb,mysql,git,github,)](https://skillicons.dev)
 
