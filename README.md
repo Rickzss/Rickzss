@@ -22,7 +22,7 @@
 [LinkedIn](https://www.linkedin.com/in/henrique-esp%C3%ADndola07/) · [GitHub](https://github.com/Rickzss)
 
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,mongodb,mysql,git,github,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,linux,mysql,git,github,)](https://skillicons.dev)
 
 
 
