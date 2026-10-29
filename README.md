@@ -1,16 +1,28 @@
 ## 🎓 Estudante de Análise e Desenvolvimento de Sistemas
-💻 Desenvolvedor em formação
-🚀 Foco em Java e Backend
+💻 Profissional de Suporte e Infraestrutura de TI
+🚀 Foco em Redes, Linux, Cloud e DevOps
 
-Atualmente estudando:
-• Java
-• SQL
-• Spring Boot
-• Git e GitHub
-• APIs REST
+🛠️ Tecnologias e estudos
 
-Tecnologias:
-Java | MySQL | MongoDB | JavaScript | Git | GitHub
+Infraestrutura: Suporte técnico, troubleshooting e fundamentos de redes
+
+Sistemas: Linux e administração de sistemas
+
+DevOps: Git, GitHub, Docker e Cloud Computing
+
+Complementares: Java, SQL e Spring Boot
+
+🚀 Projetos
+
+InvenTI: Sistema de inventário com Java e Spring Boot
+
+RPG Castelo Infinito: Projeto acadêmico em Java
+
+Laboratórios: Estudos práticos de infraestrutura e redes (em desenvolvimento)
+
+📫 Contato
+
+LinkedIn · GitHub
 
 Projetos em destaque:
 🏰 RPG Castelo Infinito
